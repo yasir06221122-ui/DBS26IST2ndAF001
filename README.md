@@ -15,8 +15,8 @@
 | [Member 4 Full Name] | [Roll No] | [@username] |
 
 **Section:** 2nd AF  
-**Instructor:** [Instructor Name]  
-**Submission Date:** June 2026
+**Instructor:** [Rana Rashid KHAN]  
+**Submission Date: 9-6-2026** June 2026
 
 ---
 
